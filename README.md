@@ -1,4 +1,4 @@
-👨‍💻 My Software Testing Journey
+👨‍💻 My Software Testing Journey.
 Hi! I'm Issa — a Civil Engineer with over 10 years of experience who made a bold and passionate career shift into the world of Software Testing. With a strong eye for detail, a love for quality, and a structured mindset, I’ve started building a solid foundation in QA and Test Engineering.
 🎯 Career Shift Overview
 After a decade in the engineering world, I discovered a deep interest in software quality and decided to pursue a new professional path in Software Testing. Since then, I’ve been actively learning, practicing, and building my skills in the QA field.
