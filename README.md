@@ -25,25 +25,27 @@ After a decade in the engineering world, I discovered a deep interest in softwar
 - Data types, conditions, loops
 - OOP fundamentals (Classes, Objects)
 
-🤖 Automation Testing *(In Progress)*
-- Learning Selenium WebDriver with Java
+🤖 Automation Testing 
+- Selenium WebDriver with Java
 - Working on real-world projects and frameworks
+- performance testing
 
 📱 Future Goals
 - Mobile Automation Testing (Appium)
-- Performance Testing
-- Exploring Test Automation Frameworks
+
 
 🧰 Tools & Technologies
 - Postman
 - MySQL
 - Java (Basics)
-- Selenium (Learning)
-- JIRA, TestRail
+- Selenium
+- JIRA
+- Microsoft tools
 - Git & GitHub
+- Jmeter
 
 📌 Repositories
 I'll be sharing test cases, bug reports, sample projects, API tests, automation scripts, and more as I progress.
 
-🔗 Connect with me on [LinkedIn] https://www.linkedin.com/in/eissa-youssef-554488126?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+🔗 Connect with me on [LinkedIn] https://www.linkedin.com/in/issa-khalil-554488126/
 📫 Feel free to reach out for collaboration or feedback.
